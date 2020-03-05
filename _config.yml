@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "Park Min Sik"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  #bio              : ""
+  bio              : "msPark1992@gmail.com"
   location         : "Seoul"
   email            : "msPark1992@gmail.com"
   links:
